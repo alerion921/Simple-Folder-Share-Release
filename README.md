@@ -49,6 +49,8 @@ It provides an easy way to **configure SMB1, set up user permissions, and share 
   ```
   dism /online /enable-feature /featurename:SMB1Protocol
   ```
+
+  ---
   
 ## **❓ Support & Feedback**
 - **💬 Found a bug or need help? Open an Issue
