@@ -1,4 +1,4 @@
-# **SMB Folder Sharing App – PS2 & Home Network**
+# **Simple Folder Share – PS2 & Home Network**
 
 ## **📌 Overview**  
 This **Windows-based VB.NET application** simplifies **file sharing over SMB1**, enabling **PlayStation 2 (PS2) consoles**, **other Windows PCs**, and **legacy devices** to access shared folders on your home network.  
