@@ -46,11 +46,11 @@ It provides an easy way to **configure SMB1, set up user permissions, and share 
 ## **⚠️ Important Notes**  
 - **Run the application as Administrator** to apply system settings.
 - **SMB1 is disabled by default in modern Windows** – Enable it using **this app** or run:
-  ```
+```
   dism /online /enable-feature /featurename:SMB1Protocol
-  ```
+```
 
-  ---
+---
   
 ## **❓ Support & Feedback**
 - **💬 Found a bug or need help? Open an Issue
